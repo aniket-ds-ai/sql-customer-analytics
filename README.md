@@ -31,8 +31,29 @@ sql-customer-analytics/
 ├── output/                   # Screenshot of result tables (optional)
 │   ├── top_customers.png
 │   └── rental_trends.png
-├── database/                 # Schema with additional tables
-│   └── mavenmovies_extended_schema.sql
+├── mavenmovies_latest_db/
+│   ├── mavenmovies_actor.sql
+│   ├── mavenmovies_actor_award.sql
+│   ├── mavenmovies_address.sql
+│   ├── mavenmovies_advisor.sql
+│   ├── mavenmovies_category.sql
+│   ├── mavenmovies_city.sql
+│   ├── mavenmovies_country.sql
+│   ├── mavenmovies_customer.sql
+│   ├── mavenmovies_film.sql
+│   ├── mavenmovies_film_actor.sql
+│   ├── mavenmovies_film_category.sql
+│   ├── mavenmovies_film_text.sql
+│   ├── mavenmovies_inventory.sql
+│   ├── mavenmovies_investor.sql
+│   ├── mavenmovies_language.sql
+│   ├── mavenmovies_location.sql
+│   ├── mavenmovies_payment.sql
+│   ├── mavenmovies_rental.sql
+│   ├── mavenmovies_routines.sql
+│   ├── mavenmovies_staff.sql
+│   ├── mavenmovies_store.sql
+│   └── mavenmovies_support_tickets.sql
 ├── README.md
 ```
 
